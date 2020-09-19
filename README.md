@@ -1,4 +1,4 @@
-# CMPT 1105 Celcius To Fahrenheit Calculation
+# CMPT 1105 Celsius To Fahrenheit Calculation
 
 A Python example of converting celcius to fahrenheit. This demonstrates the usage of taking user input, format a string, and output appropriate string format.
 
