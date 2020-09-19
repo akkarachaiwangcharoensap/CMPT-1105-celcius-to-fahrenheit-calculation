@@ -5,8 +5,8 @@ A Python example of converting celcius to fahrenheit. This demonstrates the usag
 ```python
 # Fahrenheit = 1.8C + 32
 
-celcius = float(input("Enter a celcius value"))
-fahrenheit = format(1.8 * celcius + 32, '0.1f');
+celsius = float(input("Enter a celsius value"))
+fahrenheit = format(1.8 * celsius + 32, '0.1f');
 
-print("Celcius: " + str(celcius), " Fahrenheit: " + fahrenheit)
+print("Celsius: " + str(celsius), " Fahrenheit: " + fahrenheit)
 ```
